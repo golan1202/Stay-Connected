@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/subject_item">
+
+        <item
+            android:id="@+id/item_sport"
+            android:title="sport"
+            android:checkable="true"/>
+
+        <item
+            android:id="@+id/item_articles"
+            android:title="Articles"
+            android:checkable="true"/>
+
+    </group>
+
+
+
+
+    <item android:title="duration of notifications">
+        <menu>
+            <group android:id="@+id/duration_item">
+
+
+                <item
+                    android:id="@+id/duration1"
+                    android:title="1 min"
+                    android:checkable="true"/>
+
+                <item android:id="@+id/duration2"
+                    android:title="2 min"
+                    android:checkable="true"/>
+
+                <item
+                    android:id="@+id/duration5"
+                    android:title="5 min"
+                    android:checkable="true" />
+
+                <item
+                    android:id="@+id/stop_service"
+                    android:title="stop service"
+                    android:checkable="true" />
+
+
+            </group>
+        </menu>
+    </item>
+
+
+
+</menu>

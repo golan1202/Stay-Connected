@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3F0F5"
+    android:paddingLeft="14dp"
+    android:paddingRight="14dp"
+    android:orientation="vertical"
+    tools:context="com.cliff.StayConnected.Dashboard">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F9D237"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/status_top_bottom"
+        android:padding="@dimen/status_item_padding">
+
+        <TextView
+            android:id="@+id/tvCity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:text="Weather"/>
+
+        <TextView
+            android:id="@+id/tvWeather"
+            android:layout_marginTop="@dimen/status_item_text_gap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:textSize="17sp"
+            android:text="Cloudy"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#A3D696"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/status_top_bottom"
+        android:padding="@dimen/status_item_padding">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Temperature"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:layout_marginBottom="@dimen/status_item_text_gap"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tvTemp_c"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="20.3 F"
+                android:textColor="#ffffff"
+                android:textSize="17sp" />
+
+            <TextView
+                android:id="@+id/tvTemp_f"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/status_degree_gap"
+                android:text="11 C"
+                android:textColor="#ffffff"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1AA9EE"
+        android:orientation="vertical"
+        android:layout_marginTop="@dimen/status_top_bottom"
+        android:padding="@dimen/status_item_padding">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/status_item_text_gap"
+            android:text="Fri Aug 18, 12:50 PM"
+            android:textColor="#ffffff"
+            android:textSize="17sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

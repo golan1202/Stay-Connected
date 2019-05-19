@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="status_top_bottom">4dp</dimen>
+    <dimen name="status_item_padding">4dp</dimen>
+    <dimen name="status_item_text_gap">4dp</dimen>
+    <dimen name="status_degree_gap">80dp</dimen>
+</resources>

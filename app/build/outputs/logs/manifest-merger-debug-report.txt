@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\d83e48364bae51132b9fcce16c67f54d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\c399e12d7a5f1c5467899e8e6c70a20d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\58c05795439267064a0e615f586d9101\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\bd83c79ba961dbe929134a44a81585bf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\939f46c61db33f2c4cc6c5c709f24550\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\c24b4b056419f78b85a249d9273764d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\e34ba2618569f877d3a5ac5ab40ffae8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\9f9fcdf3589ab40ace176d4195faa3c3\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\f5f545b921bf684c5d7c5817c687107a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\ea1e2fbf0859aee7c8bb1cfbf50edcc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\44b8c98a2fb860ab78bba8e11013a983\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\88e97f1972d318b6ae9beeae9abfc0aa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\6cf87d8918980186eb88f83323d5ec48\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b8bc487ce825efb2e9cf9ab332c39e16\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\3a180fa302eee2c15a13a305f11304bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\e1eef3468a8bc2e614ec1dafba735888\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\1073b326240ecbff48eb76219a649cad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\be665389ad687ee28110c67d4ebbd5ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\af93afa8a86920bb0db55a3d44dd59c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\2e9687ace3ff6853210933eff2b5992e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\59f18dbf5f7f766e5712a1f30649311f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\0752be70b6e736db2679a4d948e215eb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\037bb1b8a47bb961133747bfff975b98\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\5113d2406384e8d3fdae21eb0c652d4a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b3d611141ce8ca51d9ce66ce415f7442\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\8ea760bb115cd2b1a4b9644b8ed9182e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:6:22-74
+application
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\58c05795439267064a0e615f586d9101\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\58c05795439267064a0e615f586d9101\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\bd83c79ba961dbe929134a44a81585bf\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\bd83c79ba961dbe929134a44a81585bf\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\e34ba2618569f877d3a5ac5ab40ffae8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\e34ba2618569f877d3a5ac5ab40ffae8\AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\9f9fcdf3589ab40ace176d4195faa3c3\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\9f9fcdf3589ab40ace176d4195faa3c3\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\44b8c98a2fb860ab78bba8e11013a983\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\44b8c98a2fb860ab78bba8e11013a983\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\88e97f1972d318b6ae9beeae9abfc0aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\88e97f1972d318b6ae9beeae9abfc0aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\6cf87d8918980186eb88f83323d5ec48\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\6cf87d8918980186eb88f83323d5ec48\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b8bc487ce825efb2e9cf9ab332c39e16\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b8bc487ce825efb2e9cf9ab332c39e16\AndroidManifest.xml:22:5-26:19
+	android:label
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:8:9-51
+activity#com.cliff.StayConnected.Dashboard
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:14:9-19:20
+	android:name
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:14:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:17:27-74
+service#com.cliff.StayConnected.ArticlesService
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:22:9-24:38
+	android:enabled
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:23:13-35
+	android:exported
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:22:18-72
+service#com.cliff.StayConnected.SportService
+ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:25:9-27:38
+	android:enabled
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml:25:18-69
+uses-sdk
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\d83e48364bae51132b9fcce16c67f54d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\d83e48364bae51132b9fcce16c67f54d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\c399e12d7a5f1c5467899e8e6c70a20d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\c399e12d7a5f1c5467899e8e6c70a20d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\58c05795439267064a0e615f586d9101\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\58c05795439267064a0e615f586d9101\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\bd83c79ba961dbe929134a44a81585bf\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\bd83c79ba961dbe929134a44a81585bf\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\939f46c61db33f2c4cc6c5c709f24550\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\939f46c61db33f2c4cc6c5c709f24550\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\c24b4b056419f78b85a249d9273764d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\c24b4b056419f78b85a249d9273764d3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\e34ba2618569f877d3a5ac5ab40ffae8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\e34ba2618569f877d3a5ac5ab40ffae8\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\9f9fcdf3589ab40ace176d4195faa3c3\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\9f9fcdf3589ab40ace176d4195faa3c3\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\f5f545b921bf684c5d7c5817c687107a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\f5f545b921bf684c5d7c5817c687107a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\ea1e2fbf0859aee7c8bb1cfbf50edcc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\ea1e2fbf0859aee7c8bb1cfbf50edcc6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\44b8c98a2fb860ab78bba8e11013a983\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\44b8c98a2fb860ab78bba8e11013a983\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\88e97f1972d318b6ae9beeae9abfc0aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\88e97f1972d318b6ae9beeae9abfc0aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\6cf87d8918980186eb88f83323d5ec48\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\6cf87d8918980186eb88f83323d5ec48\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b8bc487ce825efb2e9cf9ab332c39e16\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b8bc487ce825efb2e9cf9ab332c39e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\3a180fa302eee2c15a13a305f11304bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\3a180fa302eee2c15a13a305f11304bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\e1eef3468a8bc2e614ec1dafba735888\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\e1eef3468a8bc2e614ec1dafba735888\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\1073b326240ecbff48eb76219a649cad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\1073b326240ecbff48eb76219a649cad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\be665389ad687ee28110c67d4ebbd5ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\be665389ad687ee28110c67d4ebbd5ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\af93afa8a86920bb0db55a3d44dd59c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\af93afa8a86920bb0db55a3d44dd59c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\2e9687ace3ff6853210933eff2b5992e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\2e9687ace3ff6853210933eff2b5992e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\59f18dbf5f7f766e5712a1f30649311f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\59f18dbf5f7f766e5712a1f30649311f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\0752be70b6e736db2679a4d948e215eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\0752be70b6e736db2679a4d948e215eb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\037bb1b8a47bb961133747bfff975b98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\037bb1b8a47bb961133747bfff975b98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\5113d2406384e8d3fdae21eb0c652d4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\5113d2406384e8d3fdae21eb0c652d4a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b3d611141ce8ca51d9ce66ce415f7442\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b3d611141ce8ca51d9ce66ce415f7442\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\8ea760bb115cd2b1a4b9644b8ed9182e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\8ea760bb115cd2b1a4b9644b8ed9182e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\golan\AndroidStudioProjects\Stay Connected\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\9f9fcdf3589ab40ace176d4195faa3c3\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\9f9fcdf3589ab40ace176d4195faa3c3\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\9f9fcdf3589ab40ace176d4195faa3c3\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\9f9fcdf3589ab40ace176d4195faa3c3\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\44b8c98a2fb860ab78bba8e11013a983\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\44b8c98a2fb860ab78bba8e11013a983\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\44b8c98a2fb860ab78bba8e11013a983\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\44b8c98a2fb860ab78bba8e11013a983\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b8bc487ce825efb2e9cf9ab332c39e16\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b8bc487ce825efb2e9cf9ab332c39e16\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\golan\.gradle\caches\transforms-2\files-2.1\b8bc487ce825efb2e9cf9ab332c39e16\AndroidManifest.xml:24:13-58
